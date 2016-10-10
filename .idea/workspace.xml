@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5254912f-a9cd-43d5-a902-21ec3787f02a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populate_reviewerInfo.py" afterPath="$PROJECT_DIR$/populate_reviewerInfo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReviewerInfo" afterPath="$PROJECT_DIR$/ReviewerInfo" />
     </list>
     <ignored path="DBLP_processing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/UMass/Sem1/NLP/HW3" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
