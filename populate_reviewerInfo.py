@@ -1,6 +1,7 @@
 # import openreview
 import dblp
-
+import inspect
+import json
 # Let's start by initializing the Client with our username, password, and base URL
 # openreview_client = openreview.Client(username='rbhat@cs.umass.edu', password='1234567890',
 #                                       baseurl='http://openreview.net')
@@ -13,6 +14,7 @@ import dblp
 reviewersInfo = {}
 
 # reading csv file
+'''
 fp = open("./iclr_accepted_reviewers.csv")
 file_pointer_1 = open("nilDBLPInfo.txt", "wb")
 file_pointer_2 = open("ReviewerInfo", "wb")
@@ -51,5 +53,32 @@ for eachLine in fp.readlines():
             file_pointer_1.write("\n" + name)
 file_pointer_1.close()
 file_pointer_2.close()
+'''
+authorData = dblp.search('Yichuan Tang')
+for eachAuthObject in authorData:
+    print eachAuthObject.__dict__
+    print eachAuthObject.xml
+    print eachAuthObject.urlpt
+    print eachAuthObject.name
+    print eachAuthObject.publications[0].isbn
+    print "----------------------------------------"
+    '''
+    for eachPub in eachAuthObject.publications:
+        print eachPub.__dict__
+        break
+    '''
+    print eachAuthObject.publications[0].data
+    print "----------------------------------------"
 
-# print reviewersInfo['Marc Lanctot']
+    #print eachAuthObject.name
+    print "\n"
+    break
+
+'''
+for each in authors:
+    #print(each.__dict__)
+    #print(each.homepages)
+    for eachPub in each.publications:
+        #print dir(eachPub)
+        print eachPub.data
+'''
