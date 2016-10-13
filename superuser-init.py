@@ -117,7 +117,7 @@ if openreview.user['id'].lower() == 'openreview.net':
                 'value-regex': '[^,\\n]*(,[^,\\n]+)*',
                 'required': False
             },
-            'dblp_url': {
+            'DBLP_url': {
                 'description': 'dblp.org url associated with this paper',
                 'order': 3,
                 'value-regex': '[^\\n]{0,250}',
