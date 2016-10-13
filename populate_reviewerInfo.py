@@ -54,21 +54,22 @@ for eachLine in fp.readlines():
 file_pointer_1.close()
 file_pointer_2.close()
 '''
-authorData = dblp.search('Yichuan Tang')
+authorData = dblp.search('Andrew McCallum')
 for eachAuthObject in authorData:
     print eachAuthObject.__dict__
     print eachAuthObject.xml
     print eachAuthObject.urlpt
     print eachAuthObject.name
-    print eachAuthObject.publications[0].isbn
+    print eachAuthObject.publications[2].isbn
     print "----------------------------------------"
     '''
     for eachPub in eachAuthObject.publications:
         print eachPub.__dict__
         break
     '''
-    print eachAuthObject.publications[0].data
+    print eachAuthObject.publications[2].data
     print "----------------------------------------"
+    print eachAuthObject.publications[2].data.keys()
 
     #print eachAuthObject.name
     print "\n"
