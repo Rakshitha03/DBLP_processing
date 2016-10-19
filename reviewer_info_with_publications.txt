@@ -1,0 +1,509 @@
+More than one authors found! 
+William Chan : William Chan
+20
+More than one authors found! 
+Minmin Chen : Minmin Chen
+22
+Jimmy Lei Ba : Lei Jimmy Ba
+More than one authors found! 
+Danqi Chen : Danqi Chen
+14
+Jorg Bornschein : Jörg Bornschein
+11
+Justin Bayer : Justin Bayer
+25
+Amjad Almahairi : Amjad Almahairi
+5
+Olivier Delalleau : Olivier Delalleau
+16
+Nicolas Chapados : Nicolas Chapados
+16
+DBLP parsing error for  Jonathan Huang
+No hit in dblp for  Jonathan Huang
+DBLP parsing error for  Bing Xu
+No hit in dblp for  Bing Xu
+DBLP parsing error for  Yuting Zhang
+No hit in dblp for  Yuting Zhang
+DBLP parsing error for  Dahua Lin
+No hit in dblp for  Dahua Lin
+DBLP parsing error for  Dumitru Erhan
+No hit in dblp for  Dumitru Erhan
+DBLP parsing error for  Jan Chorowski
+No hit in dblp for  Jan Chorowski
+DBLP parsing error for  George Toderici
+No hit in dblp for  George Toderici
+DBLP parsing error for  Sherjil Ozair
+No hit in dblp for  Sherjil Ozair
+DBLP parsing error for  David Warde-Farley
+No hit in dblp for  David Warde-Farley
+DBLP parsing error for  Bowen Zhou
+No hit in dblp for  Bowen Zhou
+DBLP parsing error for  Katerina Fragkiadaki
+No hit in dblp for  Katerina Fragkiadaki
+DBLP parsing error for  Le Song
+No hit in dblp for  Le Song
+DBLP parsing error for  Tianqi Chen
+No hit in dblp for  Tianqi Chen
+DBLP parsing error for  Guido Montufar Cuartas
+No hit in dblp for  Guido Montufar Cuartas
+DBLP parsing error for  Rob Fergus
+No hit in dblp for  Rob Fergus
+DBLP parsing error for  Yangfeng Ji
+No hit in dblp for  Yangfeng Ji
+DBLP parsing error for  Andrew Saxe
+No hit in dblp for  Andrew Saxe
+DBLP parsing error for  Yutaka Matsuo
+No hit in dblp for  Yutaka Matsuo
+DBLP parsing error for  Yin Zheng
+No hit in dblp for  Yin Zheng
+DBLP parsing error for  Vincent Vanhoucke
+No hit in dblp for  Vincent Vanhoucke
+DBLP parsing error for  Minh-Thang Luong
+No hit in dblp for  Minh-Thang Luong
+DBLP parsing error for  Jason Yosinski
+No hit in dblp for  Jason Yosinski
+DBLP parsing error for  Ozan İrsoy
+No hit in dblp for  Ozan İrsoy
+DBLP parsing error for  Richard Socher
+No hit in dblp for  Richard Socher
+DBLP parsing error for  Sungjin Ahn
+No hit in dblp for  Sungjin Ahn
+DBLP parsing error for  Çağlar Gülçehre
+No hit in dblp for  Çağlar Gülçehre
+DBLP parsing error for  Bruno Olshausen
+No hit in dblp for  Bruno Olshausen
+DBLP parsing error for  Youssef Mroueh
+No hit in dblp for  Youssef Mroueh
+DBLP parsing error for  Kishore Konda
+No hit in dblp for  Kishore Konda
+DBLP parsing error for  Mehdi Mirza
+No hit in dblp for  Mehdi Mirza
+DBLP parsing error for  Dong Yu
+No hit in dblp for  Dong Yu
+DBLP parsing error for  Dzmitry Bahdanau
+No hit in dblp for  Dzmitry Bahdanau
+DBLP parsing error for  Jimei Yang
+No hit in dblp for  Jimei Yang
+DBLP parsing error for  Jon Shlens
+No hit in dblp for  Jon Shlens
+DBLP parsing error for  Anshumali Shrivastava
+No hit in dblp for  Anshumali Shrivastava
+DBLP parsing error for  Yichuan Tang
+No hit in dblp for  Yichuan Tang
+DBLP parsing error for  Jianshu Chen
+No hit in dblp for  Jianshu Chen
+DBLP parsing error for  Iasonas Kokkinos
+No hit in dblp for  Iasonas Kokkinos
+DBLP parsing error for  Tom Schaul
+No hit in dblp for  Tom Schaul
+DBLP parsing error for  Jose-Miguel Hernandez-Lobato
+No hit in dblp for  Jose-Miguel Hernandez-Lobato
+DBLP parsing error for  Daniel Tarlow
+No hit in dblp for  Daniel Tarlow
+DBLP parsing error for  Ferenc Huszar
+No hit in dblp for  Ferenc Huszar
+DBLP parsing error for  Antoine Bordes
+No hit in dblp for  Antoine Bordes
+DBLP parsing error for  Andrew Dai
+No hit in dblp for  Andrew Dai
+DBLP parsing error for  Peter Gehler
+No hit in dblp for  Peter Gehler
+DBLP parsing error for  nicolas Ballas
+No hit in dblp for  nicolas Ballas
+DBLP parsing error for  Mikaela Keller
+No hit in dblp for  Mikaela Keller
+DBLP parsing error for  Luigi Malagò
+No hit in dblp for  Luigi Malagò
+DBLP parsing error for  Andrea Vedaldi
+No hit in dblp for  Andrea Vedaldi
+DBLP parsing error for  Michael Sapienza
+No hit in dblp for  Michael Sapienza
+DBLP parsing error for  Theophane Weber
+No hit in dblp for  Theophane Weber
+DBLP parsing error for  Ilya Loshchilov
+No hit in dblp for  Ilya Loshchilov
+DBLP parsing error for  Leonid Sigal
+No hit in dblp for  Leonid Sigal
+DBLP parsing error for  Yaroslav Ganin
+No hit in dblp for  Yaroslav Ganin
+DBLP parsing error for  Scott Reed
+No hit in dblp for  Scott Reed
+DBLP parsing error for  Patrick Gallinari
+No hit in dblp for  Patrick Gallinari
+DBLP parsing error for  Razvan Pascanu
+No hit in dblp for  Razvan Pascanu
+DBLP parsing error for  Jascha Sohl-Dickstein
+No hit in dblp for  Jascha Sohl-Dickstein
+DBLP parsing error for  Nicolas Usunier
+No hit in dblp for  Nicolas Usunier
+DBLP parsing error for  Rupesh Srivastava
+No hit in dblp for  Rupesh Srivastava
+DBLP parsing error for  Pawel Swietojanski
+No hit in dblp for  Pawel Swietojanski
+DBLP parsing error for  Pierre Sermanet
+No hit in dblp for  Pierre Sermanet
+DBLP parsing error for  Andrew Senior
+No hit in dblp for  Andrew Senior
+DBLP parsing error for  Anna Choromanska
+No hit in dblp for  Anna Choromanska
+DBLP parsing error for  Tejas Kulkarni
+No hit in dblp for  Tejas Kulkarni
+DBLP parsing error for  Michael Mandel
+No hit in dblp for  Michael Mandel
+DBLP parsing error for  Christian Szegedy
+No hit in dblp for  Christian Szegedy
+DBLP parsing error for  Chris Maddison
+No hit in dblp for  Chris Maddison
+DBLP parsing error for  Andreas Damianou
+No hit in dblp for  Andreas Damianou
+DBLP parsing error for  Gregoire Montavon
+No hit in dblp for  Gregoire Montavon
+DBLP parsing error for  David Jacobs
+No hit in dblp for  David Jacobs
+DBLP parsing error for  Marius Leordeanu
+No hit in dblp for  Marius Leordeanu
+DBLP parsing error for  Piotr Mirowski
+No hit in dblp for  Piotr Mirowski
+DBLP parsing error for  Balaji Laksminarayanan
+No hit in dblp for  Balaji Laksminarayanan
+DBLP parsing error for  Jorn Jacobsen
+No hit in dblp for  Jorn Jacobsen
+DBLP parsing error for  Joelle Pineau
+No hit in dblp for  Joelle Pineau
+DBLP parsing error for  Alexandre Passos
+No hit in dblp for  Alexandre Passos
+DBLP parsing error for  Prajit Ramachandran
+No hit in dblp for  Prajit Ramachandran
+DBLP parsing error for  Wieland Brendel
+No hit in dblp for  Wieland Brendel
+DBLP parsing error for  Lingpeng Kong
+No hit in dblp for  Lingpeng Kong
+DBLP parsing error for  Bryan Russell
+No hit in dblp for  Bryan Russell
+DBLP parsing error for  Taco Cohen
+No hit in dblp for  Taco Cohen
+DBLP parsing error for  Aaron Courville
+No hit in dblp for  Aaron Courville
+DBLP parsing error for  Nitish Srivastava
+No hit in dblp for  Nitish Srivastava
+DBLP parsing error for  Yash  Goyal
+No hit in dblp for  Yash  Goyal
+DBLP parsing error for  Yujia Li
+No hit in dblp for  Yujia Li
+DBLP parsing error for  Li Deng
+No hit in dblp for  Li Deng
+DBLP parsing error for  Bing Xiang
+No hit in dblp for  Bing Xiang
+DBLP parsing error for  Krzysztof  Choromanski
+No hit in dblp for  Krzysztof  Choromanski
+DBLP parsing error for  Emily Denton
+No hit in dblp for  Emily Denton
+DBLP parsing error for  Aishwarya Agrawal
+No hit in dblp for  Aishwarya Agrawal
+DBLP parsing error for  Michael Maire
+No hit in dblp for  Michael Maire
+DBLP parsing error for  Mohamed Amer
+No hit in dblp for  Mohamed Amer
+DBLP parsing error for  Christian Wolf
+No hit in dblp for  Christian Wolf
+DBLP parsing error for  Stefan Lee
+No hit in dblp for  Stefan Lee
+DBLP parsing error for  Lars Buesing
+No hit in dblp for  Lars Buesing
+DBLP parsing error for  Dilip Krishnan
+No hit in dblp for  Dilip Krishnan
+DBLP parsing error for  Ozlem Aslan
+No hit in dblp for  Ozlem Aslan
+DBLP parsing error for  Yishu Miao
+No hit in dblp for  Yishu Miao
+DBLP parsing error for  Phong Le
+No hit in dblp for  Phong Le
+DBLP parsing error for  Michael Cogswell
+No hit in dblp for  Michael Cogswell
+DBLP parsing error for  Diego Marcheggiani
+No hit in dblp for  Diego Marcheggiani
+DBLP parsing error for  Adrien Gaidon
+No hit in dblp for  Adrien Gaidon
+DBLP parsing error for  Snell Jake
+No hit in dblp for  Snell Jake
+DBLP parsing error for  Golan Punduk
+No hit in dblp for  Golan Punduk
+DBLP parsing error for  Kihyuk Sohn
+No hit in dblp for  Kihyuk Sohn
+DBLP parsing error for  Liang Lu
+No hit in dblp for  Liang Lu
+DBLP parsing error for  Ralf Schlüter
+No hit in dblp for  Ralf Schlüter
+DBLP parsing error for  Bernt Schiele
+No hit in dblp for  Bernt Schiele
+DBLP parsing error for  James  Kirkpatrick
+No hit in dblp for  James  Kirkpatrick
+DBLP parsing error for  Roger Grosse
+No hit in dblp for  Roger Grosse
+DBLP parsing error for  Karen Livescu
+No hit in dblp for  Karen Livescu
+DBLP parsing error for  Marc Lanctot
+No hit in dblp for  Marc Lanctot
+DBLP parsing error for  Relja Arandjelovic
+No hit in dblp for  Relja Arandjelovic
+DBLP parsing error for  Dani Yogatama
+No hit in dblp for  Dani Yogatama
+DBLP parsing error for  Pulkit Agrawal
+No hit in dblp for  Pulkit Agrawal
+DBLP parsing error for  Florian Schroff
+No hit in dblp for  Florian Schroff
+DBLP parsing error for  Vlad Mnih
+No hit in dblp for  Vlad Mnih
+DBLP parsing error for  Ken Caluwaerts
+No hit in dblp for  Ken Caluwaerts
+DBLP parsing error for  Bo Li
+No hit in dblp for  Bo Li
+DBLP parsing error for  Hossein Mobahi
+No hit in dblp for  Hossein Mobahi
+DBLP parsing error for  Julian McAuley
+No hit in dblp for  Julian McAuley
+DBLP parsing error for  Ziyu Wang
+No hit in dblp for  Ziyu Wang
+DBLP parsing error for  Yangqing Jia
+No hit in dblp for  Yangqing Jia
+DBLP parsing error for  Rohit Prabhavalkar
+No hit in dblp for  Rohit Prabhavalkar
+DBLP parsing error for  Pascal Frossard
+No hit in dblp for  Pascal Frossard
+DBLP parsing error for  Olga Russakovsky
+No hit in dblp for  Olga Russakovsky
+DBLP parsing error for  Mohit Iyyer
+No hit in dblp for  Mohit Iyyer
+DBLP parsing error for  Jeff Donahue
+No hit in dblp for  Jeff Donahue
+DBLP parsing error for  Dan Yamins
+No hit in dblp for  Dan Yamins
+DBLP parsing error for  Shenlong Wang
+No hit in dblp for  Shenlong Wang
+DBLP parsing error for  Yang Wang
+No hit in dblp for  Yang Wang
+DBLP parsing error for  James Hays
+No hit in dblp for  James Hays
+DBLP parsing error for  Sarath Chandar
+No hit in dblp for  Sarath Chandar
+DBLP parsing error for  Luke Vilnis
+No hit in dblp for  Luke Vilnis
+DBLP parsing error for  Julian Serban
+No hit in dblp for  Julian Serban
+DBLP parsing error for  Samuel Bowman
+No hit in dblp for  Samuel Bowman
+DBLP parsing error for  John Platt
+No hit in dblp for  John Platt
+DBLP parsing error for  Yejin Choi
+No hit in dblp for  Yejin Choi
+DBLP parsing error for  Jonathan Hunt
+No hit in dblp for  Jonathan Hunt
+DBLP parsing error for  Etienne Marcheret
+No hit in dblp for  Etienne Marcheret
+DBLP parsing error for  Jakob  Verbeek
+No hit in dblp for  Jakob  Verbeek
+DBLP parsing error for  Shixiang Gu
+No hit in dblp for  Shixiang Gu
+DBLP parsing error for  Hiroaki Sasaki
+No hit in dblp for  Hiroaki Sasaki
+DBLP parsing error for  Alex Bronstein
+No hit in dblp for  Alex Bronstein
+DBLP parsing error for  Jerome Revaud
+No hit in dblp for  Jerome Revaud
+DBLP parsing error for  Ziang Xie
+No hit in dblp for  Ziang Xie
+DBLP parsing error for  Tara Sainath
+No hit in dblp for  Tara Sainath
+DBLP parsing error for  Ludovic Denoyer
+No hit in dblp for  Ludovic Denoyer
+DBLP parsing error for  Hervé Jegou
+No hit in dblp for  Hervé Jegou
+DBLP parsing error for  Andre Martins
+No hit in dblp for  Andre Martins
+DBLP parsing error for  Serge Belongie
+No hit in dblp for  Serge Belongie
+DBLP parsing error for  Marc-Alexandre Côté
+No hit in dblp for  Marc-Alexandre Côté
+DBLP parsing error for  Nando de Freitas
+No hit in dblp for  Nando de Freitas
+DBLP parsing error for  Andrew McCallum
+No hit in dblp for  Andrew McCallum
+DBLP parsing error for  Aysegul Dundar
+No hit in dblp for  Aysegul Dundar
+DBLP parsing error for  Daniel Holtman-Rice
+No hit in dblp for  Daniel Holtman-Rice
+DBLP parsing error for  Brian Kingsbury
+No hit in dblp for  Brian Kingsbury
+DBLP parsing error for  Piotr Dollar
+No hit in dblp for  Piotr Dollar
+DBLP parsing error for  Yuval Tassa
+No hit in dblp for  Yuval Tassa
+DBLP parsing error for  Behnam Neyshabur
+No hit in dblp for  Behnam Neyshabur
+DBLP parsing error for  Ludovic Arnold
+No hit in dblp for  Ludovic Arnold
+DBLP parsing error for  Andrej  Karpathy
+No hit in dblp for  Andrej  Karpathy
+DBLP parsing error for  Antti Honkela
+No hit in dblp for  Antti Honkela
+DBLP parsing error for  Sander Dieleman
+No hit in dblp for  Sander Dieleman
+DBLP parsing error for  Matthew Blaschko
+No hit in dblp for  Matthew Blaschko
+DBLP parsing error for  Scott Leishman
+No hit in dblp for  Scott Leishman
+DBLP parsing error for  Holger Schwenk
+No hit in dblp for  Holger Schwenk
+DBLP parsing error for  Maithra Raghu
+No hit in dblp for  Maithra Raghu
+DBLP parsing error for  Emmanuel Bengio
+No hit in dblp for  Emmanuel Bengio
+DBLP parsing error for  Ross Goroshin
+No hit in dblp for  Ross Goroshin
+DBLP parsing error for  Ming-Wei Chang
+No hit in dblp for  Ming-Wei Chang
+DBLP parsing error for  Claire Monteleoni
+No hit in dblp for  Claire Monteleoni
+DBLP parsing error for  David Pfau
+No hit in dblp for  David Pfau
+cahuja@andrew.cmu.edu
+DBLP parsing error for  Alireza Makhzani
+No hit in dblp for  Alireza Makhzani
+DBLP parsing error for  Daniel Zoran
+No hit in dblp for  Daniel Zoran
+vcirik@cs.cmu.edu
+DBLP parsing error for  Andrew Maas
+No hit in dblp for  Andrew Maas
+DBLP parsing error for  Leon  Gatys
+No hit in dblp for  Leon  Gatys
+DBLP parsing error for  Mario Fritz
+No hit in dblp for  Mario Fritz
+DBLP parsing error for  Lucas Theis
+No hit in dblp for  Lucas Theis
+DBLP parsing error for  John Cunningham
+No hit in dblp for  John Cunningham
+DBLP parsing error for  Pablo Sprechmann
+No hit in dblp for  Pablo Sprechmann
+DBLP parsing error for  Samy Bengio
+No hit in dblp for  Samy Bengio
+DBLP parsing error for  Omer Levy
+No hit in dblp for  Omer Levy
+DBLP parsing error for  Ross Girshick
+No hit in dblp for  Ross Girshick
+DBLP parsing error for  Max Jaderberg
+No hit in dblp for  Max Jaderberg
+DBLP parsing error for  Peter Sadowski
+No hit in dblp for  Peter Sadowski
+DBLP parsing error for  Kelvin Xu
+No hit in dblp for  Kelvin Xu
+DBLP parsing error for  Roberto Paredes
+No hit in dblp for  Roberto Paredes
+DBLP parsing error for  Amir-massoud Farahmand
+No hit in dblp for  Amir-massoud Farahmand
+DBLP parsing error for  Kevin Swersky
+No hit in dblp for  Kevin Swersky
+DBLP parsing error for  Tim Salimans
+No hit in dblp for  Tim Salimans
+DBLP parsing error for  Alexander Schwing
+No hit in dblp for  Alexander Schwing
+DBLP parsing error for  Diederik Kingma
+No hit in dblp for  Diederik Kingma
+DBLP parsing error for  Yuri Burda
+No hit in dblp for  Yuri Burda
+DBLP parsing error for  Sageev Oore
+No hit in dblp for  Sageev Oore
+DBLP parsing error for  Mohammad Norouzi
+No hit in dblp for  Mohammad Norouzi
+DBLP parsing error for  Vaibhava Goel
+No hit in dblp for  Vaibhava Goel
+DBLP parsing error for  Ning Zhang
+No hit in dblp for  Ning Zhang
+DBLP parsing error for  Matthias Kuemmerer
+No hit in dblp for  Matthias Kuemmerer
+DBLP parsing error for  Philemon Brakel
+No hit in dblp for  Philemon Brakel
+DBLP parsing error for  Ronan Collobert
+No hit in dblp for  Ronan Collobert
+DBLP parsing error for  Liangliang Cao
+No hit in dblp for  Liangliang Cao
+DBLP parsing error for  Pascal Vincent
+No hit in dblp for  Pascal Vincent
+DBLP parsing error for  Honglak Lee
+No hit in dblp for  Honglak Lee
+DBLP parsing error for  Yaroslav Bulatov
+No hit in dblp for  Yaroslav Bulatov
+DBLP parsing error for  Doina Precup
+No hit in dblp for  Doina Precup
+DBLP parsing error for  Chelsea Finn
+No hit in dblp for  Chelsea Finn
+DBLP parsing error for  Laurent Dinh
+No hit in dblp for  Laurent Dinh
+DBLP parsing error for  Raman Arora
+No hit in dblp for  Raman Arora
+DBLP parsing error for  Ji Liu
+No hit in dblp for  Ji Liu
+DBLP parsing error for  Andrew Wilson
+No hit in dblp for  Andrew Wilson
+DBLP parsing error for  Marcus Rohrbach
+No hit in dblp for  Marcus Rohrbach
+DBLP parsing error for  Stephan Gouws
+No hit in dblp for  Stephan Gouws
+drk@calicolabs.com
+DBLP parsing error for  Frank Hutter
+No hit in dblp for  Frank Hutter
+DBLP parsing error for  Gabriel Synnaeve
+No hit in dblp for  Gabriel Synnaeve
+DBLP parsing error for  Amos Storkey
+No hit in dblp for  Amos Storkey
+DBLP parsing error for  Armand Joulin
+No hit in dblp for  Armand Joulin
+DBLP parsing error for  Joao Carreira
+No hit in dblp for  Joao Carreira
+DBLP parsing error for  Hagen Soltau
+No hit in dblp for  Hagen Soltau
+DBLP parsing error for  Samira Kahou
+No hit in dblp for  Samira Kahou
+vincent.dumoulin@umontreal.ca
+DBLP parsing error for  Josef Sivic
+No hit in dblp for  Josef Sivic
+DBLP parsing error for  Lukasz Kaiser
+No hit in dblp for  Lukasz Kaiser
+DBLP parsing error for  Jeffrey  Pennington
+No hit in dblp for  Jeffrey  Pennington
+DBLP parsing error for  Greg Mori
+No hit in dblp for  Greg Mori
+DBLP parsing error for  Andrew Rabinovich
+No hit in dblp for  Andrew Rabinovich
+DBLP parsing error for  Dustin Tran
+No hit in dblp for  Dustin Tran
+DBLP parsing error for  Eugenio Culurciello
+No hit in dblp for  Eugenio Culurciello
+DBLP parsing error for  Justin Johnson
+No hit in dblp for  Justin Johnson
+DBLP parsing error for  James Bergstra
+No hit in dblp for  James Bergstra
+DBLP parsing error for  Max Welling
+No hit in dblp for  Max Welling
+wittawatj@gmail.com
+DBLP parsing error for  Peter Bell
+No hit in dblp for  Peter Bell
+DBLP parsing error for  David Weiss
+No hit in dblp for  David Weiss
+DBLP parsing error for  Patrick Haffner
+No hit in dblp for  Patrick Haffner
+DBLP parsing error for  Junyuan Xie
+No hit in dblp for  Junyuan Xie
+DBLP parsing error for  Sridhar Mahadevan
+No hit in dblp for  Sridhar Mahadevan
+DBLP parsing error for  Raquel Urtasun
+No hit in dblp for  Raquel Urtasun
+DBLP parsing error for  Edouard Oyallon
+No hit in dblp for  Edouard Oyallon
+DBLP parsing error for  David Kale
+No hit in dblp for  David Kale
+Stats: 
+No names for:  5
+No names list:  ['cahuja@andrew.cmu.edu', 'vcirik@cs.cmu.edu', 'drk@calicolabs.com', 'vincent.dumoulin@umontreal.ca', 'wittawatj@gmail.com']
+More than 1 author hits for  3
+No hits for  239
+No hit list:  ['Jonathan Huang', 'Bing Xu', 'Yuting Zhang', 'Dahua Lin', 'Dumitru Erhan', 'Jan Chorowski', 'George Toderici', 'Sherjil Ozair', 'David Warde-Farley', 'Bowen Zhou', 'Katerina Fragkiadaki', 'Le Song', 'Tianqi Chen', 'Guido Montufar Cuartas', 'Rob Fergus', 'Yangfeng Ji', 'Andrew Saxe', 'Yutaka Matsuo', 'Yin Zheng', 'Vincent Vanhoucke', 'Minh-Thang Luong', 'Jason Yosinski', 'Ozan \xc4\xb0rsoy', 'Richard Socher', 'Sungjin Ahn', '\xc3\x87a\xc4\x9flar G\xc3\xbcl\xc3\xa7ehre', 'Bruno Olshausen', 'Youssef Mroueh', 'Kishore Konda', 'Mehdi Mirza', 'Dong Yu', 'Dzmitry Bahdanau', 'Jimei Yang', 'Jon Shlens', 'Anshumali Shrivastava', 'Yichuan Tang', 'Jianshu Chen', 'Iasonas Kokkinos', 'Tom Schaul', 'Jose-Miguel Hernandez-Lobato', 'Daniel Tarlow', 'Ferenc Huszar', 'Antoine Bordes', 'Andrew Dai', 'Peter Gehler', 'nicolas Ballas', 'Mikaela Keller', 'Luigi Malag\xc3\xb2', 'Andrea Vedaldi', 'Michael Sapienza', 'Theophane Weber', 'Ilya Loshchilov', 'Leonid Sigal', 'Yaroslav Ganin', 'Scott Reed', 'Patrick Gallinari', 'Razvan Pascanu', 'Jascha Sohl-Dickstein', 'Nicolas Usunier', 'Rupesh Srivastava', 'Pawel Swietojanski', 'Pierre Sermanet', 'Andrew Senior', 'Anna Choromanska', 'Tejas Kulkarni', 'Michael Mandel', 'Christian Szegedy', 'Chris Maddison', 'Andreas Damianou', 'Gregoire Montavon', 'David Jacobs', 'Marius Leordeanu', 'Piotr Mirowski', 'Balaji Laksminarayanan', 'Jorn Jacobsen', 'Joelle Pineau', 'Alexandre Passos', 'Prajit Ramachandran', 'Wieland Brendel', 'Lingpeng Kong', 'Bryan Russell', 'Taco Cohen', 'Aaron Courville', 'Nitish Srivastava', 'Yash  Goyal', 'Yujia Li', 'Li Deng', 'Bing Xiang', 'Krzysztof  Choromanski', 'Emily Denton', 'Aishwarya Agrawal', 'Michael Maire', 'Mohamed Amer', 'Christian Wolf', 'Stefan Lee', 'Lars Buesing', 'Dilip Krishnan', 'Ozlem Aslan', 'Yishu Miao', 'Phong Le', 'Michael Cogswell', 'Diego Marcheggiani', 'Adrien Gaidon', 'Snell Jake', 'Golan Punduk', 'Kihyuk Sohn', 'Liang Lu', 'Ralf Schl\xc3\xbcter', 'Bernt Schiele', 'James  Kirkpatrick', 'Roger Grosse', 'Karen Livescu', 'Marc Lanctot', 'Relja Arandjelovic', 'Dani Yogatama', 'Pulkit Agrawal', 'Florian Schroff', 'Vlad Mnih', 'Ken Caluwaerts', 'Bo Li', 'Hossein Mobahi', 'Julian McAuley', 'Ziyu Wang', 'Yangqing Jia', 'Rohit Prabhavalkar', 'Pascal Frossard', 'Olga Russakovsky', 'Mohit Iyyer', 'Jeff Donahue', 'Dan Yamins', 'Shenlong Wang', 'Yang Wang', 'James Hays', 'Sarath Chandar', 'Luke Vilnis', 'Julian Serban', 'Samuel Bowman', 'John Platt', 'Yejin Choi', 'Jonathan Hunt', 'Etienne Marcheret', 'Jakob  Verbeek', 'Shixiang Gu', 'Hiroaki Sasaki', 'Alex Bronstein', 'Jerome Revaud', 'Ziang Xie', 'Tara Sainath', 'Ludovic Denoyer', 'Herv\xc3\xa9 Jegou', 'Andre Martins', 'Serge Belongie', 'Marc-Alexandre C\xc3\xb4t\xc3\xa9', 'Nando de Freitas', 'Andrew McCallum', 'Aysegul Dundar', 'Daniel Holtman-Rice', 'Brian Kingsbury', 'Piotr Dollar', 'Yuval Tassa', 'Behnam Neyshabur', 'Ludovic Arnold', 'Andrej  Karpathy', 'Antti Honkela', 'Sander Dieleman', 'Matthew Blaschko', 'Scott Leishman', 'Holger Schwenk', 'Maithra Raghu', 'Emmanuel Bengio', 'Ross Goroshin', 'Ming-Wei Chang', 'Claire Monteleoni', 'David Pfau', 'Alireza Makhzani', 'Daniel Zoran', 'Andrew Maas', 'Leon  Gatys', 'Mario Fritz', 'Lucas Theis', 'John Cunningham', 'Pablo Sprechmann', 'Samy Bengio', 'Omer Levy', 'Ross Girshick', 'Max Jaderberg', 'Peter Sadowski', 'Kelvin Xu', 'Roberto Paredes', 'Amir-massoud Farahmand', 'Kevin Swersky', 'Tim Salimans', 'Alexander Schwing', 'Diederik Kingma', 'Yuri Burda', 'Sageev Oore', 'Mohammad Norouzi', 'Vaibhava Goel', 'Ning Zhang', 'Matthias Kuemmerer', 'Philemon Brakel', 'Ronan Collobert', 'Liangliang Cao', 'Pascal Vincent', 'Honglak Lee', 'Yaroslav Bulatov', 'Doina Precup', 'Chelsea Finn', 'Laurent Dinh', 'Raman Arora', 'Ji Liu', 'Andrew Wilson', 'Marcus Rohrbach', 'Stephan Gouws', 'Frank Hutter', 'Gabriel Synnaeve', 'Amos Storkey', 'Armand Joulin', 'Joao Carreira', 'Hagen Soltau', 'Samira Kahou', 'Josef Sivic', 'Lukasz Kaiser', 'Jeffrey  Pennington', 'Greg Mori', 'Andrew Rabinovich', 'Dustin Tran', 'Eugenio Culurciello', 'Justin Johnson', 'James Bergstra', 'Max Welling', 'Peter Bell', 'David Weiss', 'Patrick Haffner', 'Junyuan Xie', 'Sridhar Mahadevan', 'Raquel Urtasun', 'Edouard Oyallon', 'David Kale']

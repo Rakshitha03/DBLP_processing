@@ -1,0 +1,571 @@
+More than one authors found! 
+William Chan : William Chan
+20
+More than one authors found! 
+Minmin Chen : Minmin Chen
+22
+Jimmy Lei Ba : Lei Jimmy Ba
+More than one authors found! 
+Danqi Chen : Danqi Chen
+14
+Jorg Bornschein : Jörg Bornschein
+11
+Justin Bayer : Justin Bayer
+25
+Amjad Almahairi : Amjad Almahairi
+5
+Olivier Delalleau : Olivier Delalleau
+16
+Nicolas Chapados : Nicolas Chapados
+16
+Jonathan Huang : Jonathan Huang
+40
+More than one authors found! 
+Bing Xu : Xu Bing
+3
+More than one authors found! 
+Yuting Zhang : Yueting Zhang
+6
+Dahua Lin : Dahua Lin
+42
+Dumitru Erhan : Dumitru Erhan
+31
+Jan Chorowski : Jan Chorowski
+18
+George Toderici : George Toderici
+29
+Sherjil Ozair : Sherjil Ozair
+9
+David Warde-Farley : David Warde-Farley
+16
+Bowen Zhou : Bowen Zhou
+102
+Katerina Fragkiadaki : Katerina Fragkiadaki
+14
+More than one authors found! 
+Le Song : Song-Le Chen
+4
+More than one authors found! 
+Tianqi Chen : TianQi Chen
+1
+Guido Montufar Cuartas : Guido Francisco Montúfar Cuartas
+More than one authors found! 
+Rob Fergus : Rob Fergus
+81
+Yangfeng Ji : Yangfeng Ji
+21
+Andrew Saxe : Andrew M. Saxe
+10
+More than one authors found! 
+Yutaka Matsuo : Yutaka Matsuo
+119
+More than one authors found! 
+Yin Zheng : Zheng-ying Cai
+1
+Vincent Vanhoucke : Vincent Vanhoucke
+23
+Minh-Thang Luong : Minh-Thang Luong
+16
+Jason Yosinski : Jason Yosinski
+22
+Ozan İrsoy : Ozan Irsoy
+14
+Richard Socher : Richard Socher
+35
+Sungjin Ahn : Sungjin Ahn
+20
+Çağlar Gülçehre : Çaglar Gülçehre
+26
+Bruno Olshausen : Bruno A. Olshausen
+34
+Youssef Mroueh : Youssef Mroueh
+15
+More than one authors found! 
+Kishore Konda : Kishore Konda
+More than one authors found! 
+Mehdi Mirza : Mehdi Mirza
+17
+More than one authors found! 
+Dong Yu : Yu Dong Bae
+1
+Dzmitry Bahdanau : Dzmitry Bahdanau
+14
+Jimei Yang : Jimei Yang
+21
+Jon Shlens : Jonathon Shlens
+19
+Anshumali Shrivastava : Anshumali Shrivastava
+33
+Yichuan Tang : Yichuan Tang
+16
+Jianshu Chen : Jianshu Chen
+65
+Iasonas Kokkinos : Iasonas Kokkinos
+61
+Tom Schaul : Tom Schaul
+50
+Jose-Miguel Hernandez-Lobato : José Miguel Hernández-Lobato
+40
+Daniel Tarlow : Daniel Tarlow
+36
+More than one authors found! 
+Ferenc Huszar : Ferenc Huszar
+9
+Antoine Bordes : Antoine Bordes
+46
+More than one authors found! 
+Andrew Dai : Andrew M. Dai
+11
+More than one authors found! 
+Peter Gehler : Peter V. Gehler
+41
+nicolas Ballas : Nicolas Ballas
+17
+Mikaela Keller : Mikaela Keller
+9
+Luigi Malagò : Luigi Malagò
+16
+Andrea Vedaldi : Andrea Vedaldi
+86
+Michael Sapienza : Michael Sapienza
+12
+More than one authors found! 
+Theophane Weber : Theophane Weber
+15
+Ilya Loshchilov : Ilya Loshchilov
+31
+Leonid Sigal : Leonid Sigal
+80
+Yaroslav Ganin : Yaroslav Ganin
+9
+More than one authors found! 
+Scott Reed : Scott Reed
+Patrick Gallinari : Patrick Gallinari
+251
+Razvan Pascanu : Razvan Pascanu
+30
+Jascha Sohl-Dickstein : Jascha Sohl-Dickstein
+27
+Nicolas Usunier : Nicolas Usunier
+61
+More than one authors found! 
+Rupesh Srivastava : Rupesh Srivastava
+2
+Pawel Swietojanski : Pawel Swietojanski
+24
+Pierre Sermanet : Pierre Sermanet
+17
+More than one authors found! 
+Andrew Senior : Andrew Senior
+2
+Anna Choromanska : Anna Choromanska
+21
+More than one authors found! 
+Tejas Kulkarni : Tejas Kulkarni
+3
+More than one authors found! 
+Michael Mandel : Michael Mandel
+5
+Christian Szegedy : Christian Szegedy
+28
+Chris Maddison : Chris J. Maddison
+5
+Andreas Damianou : Andreas C. Damianou
+19
+Gregoire Montavon : Grégoire Montavon
+21
+More than one authors found! 
+David Jacobs : David Jacobs
+8
+Marius Leordeanu : Marius Leordeanu
+30
+More than one authors found! 
+Piotr Mirowski : Piotr Mirowski
+No hit in dblp for  Balaji Laksminarayanan
+Jorn Jacobsen : Jörn-Henrik Jacobsen
+1
+Joelle Pineau : Joelle Pineau
+111
+Alexandre Passos : Alexandre Passos
+13
+Prajit Ramachandran : Prajit Ramachandran
+1
+Wieland Brendel : Wieland Brendel
+3
+Lingpeng Kong : Lingpeng Kong
+11
+More than one authors found! 
+Bryan Russell : Russell Bryant
+1
+More than one authors found! 
+Taco Cohen : Taco Cohen
+7
+Aaron Courville : Aaron C. Courville
+87
+More than one authors found! 
+Nitish Srivastava : Nitish Srivastava
+15
+Yash  Goyal : Yash Goyal
+6
+More than one authors found! 
+Yujia Li : Yujia Li
+25
+More than one authors found! 
+Li Deng : Chai-Ling Deng
+3
+More than one authors found! 
+Bing Xiang : Xiang-Bing Li
+1
+More than one authors found! 
+Krzysztof  Choromanski : Krzysztof Choromanski
+26
+More than one authors found! 
+Emily Denton : Emily Denton
+Aishwarya Agrawal : Aishwarya Agrawal
+8
+More than one authors found! 
+Michael Maire : Michael Maire
+24
+More than one authors found! 
+Mohamed Amer : Mohamed A. Amer
+3
+More than one authors found! 
+Christian Wolf : Wolfgang Christian
+7
+More than one authors found! 
+Stefan Lee : Stefan Lee
+7
+More than one authors found! 
+Lars Buesing : Lars Buesing
+15
+Dilip Krishnan : Dilip Krishnan
+21
+Ozlem Aslan : Özlem Aslan
+8
+Yishu Miao : Yishu Miao
+7
+More than one authors found! 
+Phong Le : Duc-Phong Le
+20
+Michael Cogswell : Michael Cogswell
+9
+Diego Marcheggiani : Diego Marcheggiani
+15
+Adrien Gaidon : Adrien Gaidon
+18
+Snell Jake : Jake Snell
+1
+No hit in dblp for  Golan Punduk
+Kihyuk Sohn : Kihyuk Sohn
+16
+More than one authors found! 
+Liang Lu : Liang-Lun Cheng
+1
+Ralf Schlüter : Ralf Schlüter
+157
+Bernt Schiele : Bernt Schiele
+278
+More than one authors found! 
+James  Kirkpatrick : James Kirkpatrick
+3
+More than one authors found! 
+Roger Grosse : Roger Grosse
+1
+Karen Livescu : Karen Livescu
+66
+Marc Lanctot : Marc Lanctot
+32
+Relja Arandjelovic : Relja Arandjelovic
+17
+Dani Yogatama : Dani Yogatama
+20
+Pulkit Agrawal : Pulkit Agrawal
+10
+Florian Schroff : Florian Schroff
+11
+No hit in dblp for  Vlad Mnih
+Ken Caluwaerts : Ken Caluwaerts
+16
+More than one authors found! 
+Bo Li : Liad Bareket-Bojmel
+1
+Hossein Mobahi : Hossein Mobahi
+26
+More than one authors found! 
+Julian McAuley : Julian McAuley
+19
+More than one authors found! 
+Ziyu Wang : Ziyu Wang
+45
+Yangqing Jia : Yangqing Jia
+42
+Rohit Prabhavalkar : Rohit Prabhavalkar
+18
+Pascal Frossard : Pascal Frossard
+338
+Olga Russakovsky : Olga Russakovsky
+18
+Mohit Iyyer : Mohit Iyyer
+6
+More than one authors found! 
+Jeff Donahue : Jeff Donahue
+31
+More than one authors found! 
+Dan Yamins : Dan Yamins
+16
+Shenlong Wang : Shenlong Wang
+10
+More than one authors found! 
+Yang Wang : Chao Yang Wang
+1
+James Hays : James Hays
+43
+More than one authors found! 
+Sarath Chandar : A. P. Sarath Chandar
+18
+Luke Vilnis : Luke Vilnis
+10
+No hit in dblp for  Julian Serban
+Samuel Bowman : Samuel R. Bowman
+16
+More than one authors found! 
+John Platt : John Platt
+1
+Yejin Choi : Yejin Choi
+51
+More than one authors found! 
+Jonathan Hunt : Jonathan Hunter Huggins
+2
+Etienne Marcheret : Etienne Marcheret
+35
+More than one authors found! 
+Jakob  Verbeek : Jakob Verbeek
+3
+Shixiang Gu : Shixiang Gu
+8
+Hiroaki Sasaki : Hiroaki Sasaki
+18
+More than one authors found! 
+Alex Bronstein : Alex Bronstein
+3
+Jerome Revaud : Jérôme Revaud
+22
+Ziang Xie : Ziang Xie
+5
+Tara Sainath : Tara N. Sainath
+66
+Ludovic Denoyer : Ludovic Denoyer
+74
+More than one authors found! 
+Hervé Jegou : Herve Jegou
+More than one authors found! 
+Andre Martins : André Luís Martins Bandeira
+1
+Serge Belongie : Serge J. Belongie
+148
+Marc-Alexandre Côté : Marc-Alexandre Côté
+5
+Nando de Freitas : Nando de Freitas
+116
+More than one authors found! 
+Andrew McCallum : Andrew McCallum
+186
+Aysegul Dundar : Aysegul Dundar
+10
+No hit in dblp for  Daniel Holtman-Rice
+Brian Kingsbury : Brian Kingsbury
+86
+Piotr Dollar : Piotr Dollár
+44
+Yuval Tassa : Yuval Tassa
+18
+Behnam Neyshabur : Behnam Neyshabur
+17
+Ludovic Arnold : Ludovic Arnold
+4
+Andrej  Karpathy : Andrej Karpathy
+14
+Antti Honkela : Antti Honkela
+30
+Sander Dieleman : Sander Dieleman
+14
+More than one authors found! 
+Matthew Blaschko : Matthew B. Blaschko
+51
+Scott Leishman : Scott Leishman
+5
+Holger Schwenk : Holger Schwenk
+62
+Maithra Raghu : Maithra Raghu
+4
+Emmanuel Bengio : Emmanuel Bengio
+2
+Ross Goroshin : Ross Goroshin
+11
+Ming-Wei Chang : Ming-Wei Chang
+52
+Claire Monteleoni : Claire Monteleoni
+26
+More than one authors found! 
+David Pfau : David Pfau
+7
+cahuja@andrew.cmu.edu
+Alireza Makhzani : Alireza Makhzani
+7
+Daniel Zoran : Daniel Zoran
+10
+vcirik@cs.cmu.edu
+More than one authors found! 
+Andrew Maas : Andrew I. R. Maas
+1
+Leon  Gatys : Leon A. Gatys
+5
+Mario Fritz : Mario Fritz
+85
+More than one authors found! 
+Lucas Theis : Lucas Theis
+14
+More than one authors found! 
+John Cunningham : John Cunningham
+9
+Pablo Sprechmann : Pablo Sprechmann
+35
+Samy Bengio : Samy Bengio
+169
+Omer Levy : Omer Levy
+15
+Ross Girshick : Ross B. Girshick
+65
+Max Jaderberg : Max Jaderberg
+13
+More than one authors found! 
+Peter Sadowski : Peter Sadowski
+1
+More than one authors found! 
+Kelvin Xu : Kelvin Xu
+5
+More than one authors found! 
+Roberto Paredes : Roberto Paredes Palacios
+Amir-massoud Farahmand : Amir Massoud Farahmand
+26
+Kevin Swersky : Kevin Swersky
+23
+Tim Salimans : Tim Salimans
+8
+More than one authors found! 
+Alexander Schwing : Alexander G. Schwing
+29
+Diederik Kingma : Diederik P. Kingma
+14
+Yuri Burda : Yuri Burda
+3
+Sageev Oore : Sageev Oore
+8
+More than one authors found! 
+Mohammad Norouzi : Mohammad Norouzi Arab
+2
+Vaibhava Goel : Vaibhava Goel
+76
+More than one authors found! 
+Ning Zhang : Zhang Ning
+5
+Matthias Kuemmerer : Matthias Kümmerer
+2
+Philemon Brakel : Philemon Brakel
+14
+Ronan Collobert : Ronan Collobert
+66
+Liangliang Cao : Liangliang Cao
+97
+More than one authors found! 
+Pascal Vincent : Andre Vincent Pascal Grosset
+1
+Honglak Lee : Honglak Lee
+68
+Yaroslav Bulatov : Yaroslav Bulatov
+3
+Doina Precup : Doina Precup
+155
+More than one authors found! 
+Chelsea Finn : Chelsea Finn
+15
+Laurent Dinh : Laurent Dinh
+8
+Raman Arora : Raman Arora
+46
+More than one authors found! 
+Ji Liu : Jian Liung Chen
+2
+More than one authors found! 
+Andrew Wilson : Andrew Wilson Howitt
+2
+Marcus Rohrbach : Marcus Rohrbach
+50
+Stephan Gouws : Stephan Gouws
+5
+drk@calicolabs.com
+Frank Hutter : Frank Hutter
+59
+Gabriel Synnaeve : Gabriel Synnaeve
+20
+Amos Storkey : Amos J. Storkey
+58
+Armand Joulin : Armand Joulin
+28
+More than one authors found! 
+Joao Carreira : Joao Carreira
+5
+Hagen Soltau : Hagen Soltau
+51
+Samira Kahou : Samira Ebrahimi Kahou
+9
+vincent.dumoulin@umontreal.ca
+Josef Sivic : Josef Sivic
+72
+Lukasz Kaiser : Lukasz Kaiser
+44
+More than one authors found! 
+Jeffrey  Pennington : Jeffrey Pennington
+4
+More than one authors found! 
+Greg Mori : Emilie Morissette Grégoire
+1
+Andrew Rabinovich : Andrew Rabinovich
+16
+Dustin Tran : Dustin Tran
+10
+Eugenio Culurciello : Eugenio Culurciello
+89
+More than one authors found! 
+Justin Johnson : Justin Johnson
+10
+James Bergstra : James Bergstra
+24
+Max Welling : Max Welling
+165
+wittawatj@gmail.com
+More than one authors found! 
+Peter Bell : Peter Bell
+1
+More than one authors found! 
+David Weiss : David Y. Weiss Solís
+6
+Patrick Haffner : Patrick Haffner
+52
+Junyuan Xie : Junyuan Xie
+43
+Sridhar Mahadevan : Sridhar Mahadevan
+99
+Raquel Urtasun : Raquel Urtasun
+123
+Edouard Oyallon : Edouard Oyallon
+4
+More than one authors found! 
+David Kale : David Kale
+1
+Stats: 
+No names for:  5
+No names list:  ['cahuja@andrew.cmu.edu', 'vcirik@cs.cmu.edu', 'drk@calicolabs.com', 'vincent.dumoulin@umontreal.ca', 'wittawatj@gmail.com']
+More than 1 author hits for  77
+No hits for  5
+No hit list:  ['Balaji Laksminarayanan', 'Golan Punduk', 'Vlad Mnih', 'Julian Serban', 'Daniel Holtman-Rice']

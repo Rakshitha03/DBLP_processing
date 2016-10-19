@@ -60,16 +60,31 @@ for eachAuthObject in authorData:
     print eachAuthObject.xml
     print eachAuthObject.urlpt
     print eachAuthObject.name
-    print eachAuthObject.publications[2].isbn
-    print "----------------------------------------"
-    '''
-    for eachPub in eachAuthObject.publications:
-        print eachPub.__dict__
-        break
-    '''
-    print eachAuthObject.publications[2].data
-    print "----------------------------------------"
-    print eachAuthObject.publications[2].data.keys()
+    print "Len of publications ", len(eachAuthObject.publications)
+    count = 0
+    publication_set = set()
+    for publication in eachAuthObject.publications:
+        try:
+
+            publication_set.add(publication.title)
+# print publication.title
+        except:
+            print publication.isbn
+            print publication.data
+        count += 1
+    print "*"*10
+    print "total count",count
+    print len(publication_set)
+    # print eachAuthObject.publications[2].isbn
+    # print "----------------------------------------"
+    # '''
+    # for eachPub in eachAuthObject.publications:
+    #     print eachPub.__dict__
+    #     break
+    # '''
+    # print eachAuthObject.publications[2].data
+    # print "----------------------------------------"
+    # print eachAuthObject.publications[2].data.keys()
 
     #print eachAuthObject.name
     print "\n"
