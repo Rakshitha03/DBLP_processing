@@ -77,7 +77,7 @@ def readkeyphrases(reviewersList):
             noName += 1
             noNameList.append(emailId)
             continue
-#Include a;; keyphrase files in firstname_lastname.kp format in folder ./Reviewer_Keyphrases in working directory
+#Include all keyphrase files in firstname_lastname.kp format in folder ./Reviewer_Keyphrases in working directory
         if os.path.isfile("./Reviewer_Keyphrases/"+fileName):
             reviewer_keyfiles = codecs.open("./Reviewer_Keyphrases/"+fileName)
             expertise = []
