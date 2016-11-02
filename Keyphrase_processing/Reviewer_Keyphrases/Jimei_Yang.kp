@@ -1,0 +1,8 @@
+<Person Re-identification> 
+
+<joint Segmentation> <visual Attributes> 
+
+<Fully convolutional Encoder-Decoder> <Object Segmentation> 
+
+<Recurrent Transformations> <face synthesis> <Attention> <View synthesis> <Online Object Tracking> <Object Segmentation> 
+

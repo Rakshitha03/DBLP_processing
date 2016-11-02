@@ -1,0 +1,20 @@
+<object detection> <Perspective> <PCA-SIFT> <Composite Images> <Objects> <Visual Ob ject> <Single photograph> <Multiple Segmentations> 
+
+<Space> 
+
+<Light-Field Cameras> <Single Image> 
+
+<Perspective> <Single Image> <Intrinsic Image Decomposition> <cross-domain Image matching> 
+
+<Objects> <Image Collections> <Multiple Segmentations> 
+
+<Single Image> <human travel Priors> <Single outdoor Image> <Texture Synthesis> 
+
+<Single View geometry> <Long-Term Observation> <Learning per-exemplar distances> <scene interpretation> 
+
+<Visual Elements> <Reasoning about object> 
+
+<millions> 
+
+<water> <large Dataset> 
+
