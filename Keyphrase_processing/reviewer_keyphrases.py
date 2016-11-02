@@ -45,12 +45,11 @@ def posttoopenreview(addedExpertise, client):
         assert initlength + additionallength == len(profile_note.content['expertise'])
         try:
             client.post_note(profile_note)
+            succesfullyPosted += 1
         except:
-            print sys.exc_info()[0]
             errorIds.append([emailId, expertise, sys.exc_info()[0]])
             continue
 
-        succesfullyPosted += 1
     print "Number of notes successfully posted: ", succesfullyPosted
     print "Number of notes with no profiles: ", len(noProfile)
     print "Number of notes with errors in posting: ", len(errorIds)
@@ -78,7 +77,7 @@ def readkeyphrases(reviewersList):
             noName += 1
             noNameList.append(emailId)
             continue
-
+#Include a;; keyphrase files in firstname_lastname.kp format in folder ./Reviewer_Keyphrases in working directory
         if os.path.isfile("./Reviewer_Keyphrases/"+fileName):
             reviewer_keyfiles = codecs.open("./Reviewer_Keyphrases/"+fileName)
             expertise = []
@@ -118,6 +117,16 @@ def readkeyphrases(reviewersList):
 
 if __name__== '__main__':
     client = initclient()
+#Include iclr_accepted_reviewers.csv in home folder
     reviewerExpertiseDict = readkeyphrases("./iclr_accepted_reviewers.csv")
     print "Number of reviewers with expertises added: ", len(reviewerExpertiseDict)
     noProfile, errorIds = posttoopenreview(reviewerExpertiseDict, client)
+    file3 = open('no_profiles.txt', 'w')
+    for profile in noProfile:
+        file3.write(profile+'\n')
+    file3.close()
+    file4 = open('error_ids.txt', 'w')
+
+    for error in errorIds:
+        file4.write(error+'\n')
+    file4.close()
