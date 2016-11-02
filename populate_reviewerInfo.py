@@ -1,100 +1,202 @@
-# import openreview
+from time import sleep
+
+import openreview
 import dblp
 import inspect
 import json
-# Let's start by initializing the Client with our username, password, and base URL
-# openreview_client = openreview.Client(username='rbhat@cs.umass.edu', password='1234567890',
-#                                       baseurl='http://openreview.net')
-# Get the list of accepted reviewers
-# reviewers = openreview_client.get_group('ICLR.cc/2017/conference/reviewers')
-# print reviewers
+import os
 
-# For the time being we are using the csv file given my melisa. Later we need
-# to get reviewers from here.
-reviewersInfo = {}
+# reviewersInfo = {}
+# initializing openreview_client to post notes.
+username = 'OpenReview.net' #fill in your email address that you use to log in to OpenReview
+password = '1234567890' #fill in your password
+baseurl  = 'http://localhost:3000' #fill in your desired baseurl (e.g. 'http://localhost:3000', or 'http://dev.openreview.net', etc.)
 
-# reading csv file
-'''
+openreview_client = openreview.Client(username=username, password=password, baseurl=baseurl)
+# reading the reviewer info from csv file and obtaining information about the user
 fp = open("./iclr_accepted_reviewers.csv")
-file_pointer_1 = open("nilDBLPInfo.txt", "wb")
-file_pointer_2 = open("ReviewerInfo", "wb")
+no_name = 0
+more_than_one = 0
+no_hits = 0
+no_match = 0
+no_pub = 0
+author_disambiguation = {}
+no_hits_names = []
+no_name_list = []
+no_matched_author = []
+no_pub_list = []
+notes_count = 0
+
 for eachLine in fp.readlines():
-    firstName, lastName, emailID = eachLine.split(',')
-    name = firstName + " " + lastName
-    if name not in reviewersInfo:
-        reviewersInfo[name] = {'emailID': emailID.strip()}
-        authors = dblp.search(name)
-        if authors:
-            file_pointer_2.write("*" * 15)
-            # These people with non ascii names -_-
-            try:
-                file_pointer_2.write("\nAuthor:\t" + authors[
-                    0].name + "\nEmail:\t" + emailID + "Publication List:\n")
-            except:
-                file_pointer_2.write(
-                    "\nAuthor:\t" + name + "\nEmail:\t" + emailID + "Publication List:\n")
-            reviewersInfo[name]['publications'] = authors[0].publications
-            count = 1
-            for publication in reviewersInfo[name]['publications']:
-                # Please can you try solving ascii encoding error for other
-                # authors and publication title and email id! Don't seem to have
-                #  the patience to solve it now.
-                # Skipping it for the time being.
-                try:
-                    file_pointer_2.write(str(
-                        count) + ") " + publication.title + "\nAuthors:" + ','.join(
-                        publication.authors) + "\n")
-                    count += 1
-                except Exception:
-                    pass
-                    # Need to fix this
-                    # print(publication.title+"\t"+','.join(publication.authors)+"\n")
-        else:
-            file_pointer_1.write("\n" + name)
-file_pointer_1.close()
-file_pointer_2.close()
-'''
-authorData = dblp.search('Andrew McCallum')
-for eachAuthObject in authorData:
-    print eachAuthObject.__dict__
-    print eachAuthObject.xml
-    print eachAuthObject.urlpt
-    print eachAuthObject.name
-    print "Len of publications ", len(eachAuthObject.publications)
-    count = 0
-    publication_set = set()
-    for publication in eachAuthObject.publications:
+    emailId, firstName, lastName = eachLine.split(',')
+    name = firstName + " " + lastName.strip()
+    file_name = firstName + "_" + lastName.strip()
+
+    if name == '' or name == ' ':
+        print emailId
+        no_name += 1
+        no_name_list.append(emailId)
+    else:
         try:
+            authors = dblp.search(name)
+        except Exception as e:
+            sleep(2)
+            authors = dblp.search(name)
+        if authors:
+            if len(authors) > 1:
+                print "More than one authors found! "
+                more_than_one += 1
+                author_disambiguation[name] = []
+                author = None
+                for ath in authors:
+                    author_disambiguation[name].append(ath.name)
+                    if name.lower() == ath.name.lower():
+                        author = ath
+                # print name + ' : ' + unicode(author.name).encode('utf-8')
+                if not author:
+                    no_matched_author.append(name)
+                    print "No perfect match found for: ", name
+                    print author_disambiguation[name]
+                    no_match += 1
+                if author and len(author.publications) == 0:
+                    print "No publications found for ", name
+                    no_pub += 1
+                    no_pub_list.append(name)
+                    continue
+                if author and len(author.publications) > 0:
+                    print len(author.publications)
+                    publications_set = set()
+                    for publication in author.publications:
+                        try:
+                            pub_title = publication.title
+                        except Exception as e:
+                            sleep(2)
+                            pub_title = publication.title
+                        if pub_title in publications_set:
+                            continue
+                        note = openreview.Note()
+                        publications_set.add(pub_title)
+                        ath_ids = []
+                        for ath_name in publication.authors:
+                            if ath_name.lower() == author.name.lower():
+                                ath_ids.append(emailId)
+                            else:
+                                ath_ids.append('_')
 
-            publication_set.add(publication.title)
-# print publication.title
-        except:
-            print publication.isbn
-            print publication.data
-        count += 1
-    print "*"*10
-    print "total count",count
-    print len(publication_set)
-    # print eachAuthObject.publications[2].isbn
-    # print "----------------------------------------"
-    # '''
-    # for eachPub in eachAuthObject.publications:
-    #     print eachPub.__dict__
-    #     break
-    # '''
-    # print eachAuthObject.publications[2].data
-    # print "----------------------------------------"
-    # print eachAuthObject.publications[2].data.keys()
+                        note.content = {
+                            'abstract': '',
+                                       'school': publication.school ,
+                                       'publisher':publication.publisher ,
+                                       'chapter': publication.chapter,
+                                       'crossref': publication.crossref,
+                                       'pages': publication.pages,
+                                       'volume': publication.volume,
+                                       'journal': publication.journal,
+                                       'type': publication.type,
+                                       'sub_type': publication.sub_type,
+                                       'editors': ','.join(publication.editors),
+                                       'booktitle': publication.booktitle,
+                                       'year': publication.year,
+                                       'month': publication.month,
+                                       'mag_number': publication.number,
+                                       'series': publication.series,
+                                       'ee': publication.ee,
+                                       'isbn': publication.isbn,
+                                       'DBLP_url': 'publication.url',
+                                       'authorids': ath_ids,
+                                       'authors': publication.authors,
+                                       'title': publication.title,
+                        }
+                        note.invitation = 'DBLP.org/-/paper'
+                        note.signatures = ['DBLP.org/upload']
+                        note.writers = note.signatures
+                        note.readers = ['everyone']
+                        note.cdate = 1234
+                        note.to_json()
+                        try:
+                            openreview_client.post_note(note)
+                            notes_count += 1
+                        except Exception as e:
+                            print "EXCEPTION !!", e
+                        # for title in publications_set:
+                        #     title = unicode(title).encode('utf-8')
 
-    #print eachAuthObject.name
-    print "\n"
-    break
+            else:
+                author = authors[0]
+                if len(author.publications) == 0:
+                    print "No publications found for ", name
+                    no_pub += 1
+                    no_pub_list.append(name)
+                if len(author.publications) > 0:
+                    print len(author.publications)
+                    publications_set = set()
+                    for publication in author.publications:
+                        try:
+                            pub_title = publication.title
+                        except Exception as e:
+                            sleep(2)
+                            pub_title = publication.title
+                        if pub_title in publications_set:
+                            continue
+                        note = openreview.Note()
+                        publications_set.add(pub_title)
+                        ath_ids = []
+                        for ath_name in publication.authors:
+                            if ath_name.lower() == author.name.lower():
+                                ath_ids.append(emailId)
+                            else:
+                                ath_ids.append('_')
 
-'''
-for each in authors:
-    #print(each.__dict__)
-    #print(each.homepages)
-    for eachPub in each.publications:
-        #print dir(eachPub)
-        print eachPub.data
-'''
+                        note.content = {
+                            'abstract': '',
+                            'school': publication.school,
+                            'publisher': publication.publisher,
+                            'chapter': publication.chapter,
+                            'crossref': publication.crossref,
+                            'pages': publication.pages,
+                            'volume': publication.volume,
+                            'journal': publication.journal,
+                            'type': publication.type,
+                            'sub_type': publication.sub_type,
+                            'editors': ','.join(publication.editors),
+                            'booktitle': publication.booktitle,
+                            'year': publication.year,
+                            'month': publication.month,
+                            'mag_number': publication.number,
+                            'series': publication.series,
+                            'ee': publication.ee,
+                            'isbn': publication.isbn,
+                            'DBLP_url': 'publication.url',
+                            'authorids': ath_ids,
+                            'authors': publication.authors,
+                            'title': publication.title,
+                        }
+                        note.invitation = 'DBLP.org/-/paper'
+                        note.signatures = ['DBLP.org/upload']
+                        note.writers = note.signatures
+                        note.readers = ['everyone']
+                        note.cdate = 1234
+                        note.to_json()
+                        try:
+                            openreview_client.post_note(note)
+                            notes_count += 1
+                        except Exception as e:
+                            print "EXCEPTION !!", e
+                        # for title in publications_set:
+                        #     title = unicode(title).encode('utf-8')
+        else:
+            print "No hit in dblp for ", name
+            no_hits_names.append(name)
+            no_hits += 1
+
+print "Stats: "
+print "No names for: ", no_name
+print "No names list: ", no_name_list
+print "More than 1 author hits for ", more_than_one
+print "No hits for ", no_hits
+print "No hit list: ", no_hits_names
+print "No matches count ", no_match
+print "No matches list", no_matched_author
+print "No publications: ", no_pub
+print "No publications list: ", no_pub_list
+print "No. of notes created are: ", notes_count

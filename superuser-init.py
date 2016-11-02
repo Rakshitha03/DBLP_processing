@@ -1,7 +1,9 @@
 #!/usr/bin/python
 
 """
+<<<<<<< e05208d8bebfb3e22cbe0ad88cf2306b18a48e74
 This is the initialization script for dblp.org
+added dblp directory and tutorial section
 
 It should only be run ONCE to kick off the conference. It can only be run by the Super User.
 
@@ -46,8 +48,7 @@ if openreview.user['id'].lower() == 'openreview.net':
 
     #########################
     ##    SETUP GROUPS     ##
-    ######################### 
-
+    #########################
     if overwrite_allowed('DBLP.org'):
         DBLP = Group('DBLP.org',
                      readers=['OpenReview.net'],
@@ -64,14 +65,10 @@ if openreview.user['id'].lower() == 'openreview.net':
                             signatures=['DBLP.org'],
                             signatories=['DBLP.org/upload'],
                             members=['spector@cs.umass.edu',
-                                     'mbok@cs.umass.edu', 'rbhat@umass.edu',
+                                     'mbok@cs.umass.edu', 'rbhat@cs.umass.edu',
+                                     'ngovindraja@cs.umass.edu', 'rbhat@umass.edu',
                                      'asrinivasan@cs.umass.edu'])
         groups.append(DBLP_upload)
-
-    ## Post the groups
-    for g in groups:
-        print "Posting group: ", g.id
-        openreview.post_group(g)
 
     ## Post the groups
     for g in groups:
@@ -96,7 +93,7 @@ if openreview.user['id'].lower() == 'openreview.net':
             'title': {
                 'description': 'Title of paper.',
                 'order': 1,
-                'value-regex': '.{0,100}',
+                'value-regex': '.{0,300}',
                 'required': False
             },
             'abstract': {
@@ -107,18 +104,18 @@ if openreview.user['id'].lower() == 'openreview.net':
             },
             'authors': {
                 'description': 'Comma separated list of author names, as they appear in the paper.',
-                'order': 3,
-                'value-regex': '[^,\\n]*(,[^,\\n]+)*',
-                'required': False
+                'order': 2,
+                'values-regex': "[^;,\\n]+(,[^,\\n]+)*",
+                'required':True
             },
             'authorids': {
                 'description': 'Comma separated list of author email addresses, in the same order as above.',
-                'order': 4,
-                'value-regex': '[^,\\n]*(,[^,\\n]+)*',
-                'required': False
+                'order': 3,
+                'values-regex': "[^;,\\n]+(,[^,\\n]+)*",
+                'required':True
             },
             'DBLP_url': {
-                'description': 'dblp.org url associated with this paper',
+                'description': 'DBLP.org url associated with this paper',
                 'order': 3,
                 'value-regex': '[^\\n]{0,250}',
                 'required': False
@@ -126,7 +123,7 @@ if openreview.user['id'].lower() == 'openreview.net':
             'isbn': {
                 'description': 'isbn number of this paper',
                 'order': 5,
-                'value-regex': '[^\\n]{0,13}',
+                'value-regex': '[^\\n]{0,20}',
                 'required': False
 
             },
@@ -144,11 +141,11 @@ if openreview.user['id'].lower() == 'openreview.net':
                 'required': False
 
             },
-            'number': {
+            'mag_number': {
                 'description': 'The number of a journal, magazine, technical '
                                'report, or of a work in a series',
                 'order': 5,
-                'value-regex': '[\\w]{0,20}',
+                'value-regex': '[^\\n]{0,20}',
                 'required': False
 
             },
@@ -204,7 +201,7 @@ if openreview.user['id'].lower() == 'openreview.net':
             'volume': {
                 'description': 'The volume of a journal or multivolume book.',
                 'order': 5,
-                'value-regex': '[^\\n]{0,10}',
+                'value-regex': '[^\\n]{0,100}',
                 'required': False
 
             },
@@ -243,29 +240,23 @@ if openreview.user['id'].lower() == 'openreview.net':
                 'required': False
 
             },
-            'url': {
-                'description': 'position inside the table of contents',
-                'order': 5,
-                'value-regex': '[^\\n]{0,250}',
-                'required': False
 
-            }
         }
     }
-
-    submission_invitation = Invitation( 'DBLP.org',
-        'paper',
-        readers=['everyone'],
-        writers=['DBLP.org/upload'],
-        invitees=['DBLP.org/upload'],
-        signatures=['DBLP.org'],
-        reply=reply,
-        duedate=0, #duedate of 0 means that the invitation has not been released
-        process='../process/dblp_process.js')
+    submission_invitation = Invitation('DBLP.org',
+                                       'paper',
+                                       readers=['everyone'],
+                                       writers=['DBLP.org/upload'],
+                                       invitees=['DBLP.org/upload'],
+                                       signatures=['DBLP.org'],
+                                       reply=reply,
+                                       duedate=0,
+                                       # duedate of 0 means that the invitation has not been released
+                                       process='../process/dblp_process.js')
 
     invitations = [submission_invitation]
 
     ## Post the invitations
     for i in invitations:
-        print "Posting invitation: "+i.id
+        print "Posting invitation: " + i.id
         openreview.post_invitation(i)
