@@ -1,0 +1,27 @@
+Karl_Hermann
+Matthias_Kuemmerer
+David_Pfau
+Piotr_Dollar
+Daniel_Holtman-Rice
+Nando_de Freitas
+Marc-Alexandre_Côté
+Andre_Martins
+Hervé_Jegou
+Jerome_Revaud
+Julian_Serban
+Vlad_Mnih
+James_Kirkpatrick
+Golan_Punduk
+Snell_Jake
+Ozlem_Aslan
+Prajit_Ramachandran
+Jorn_Jacobsen
+Balaji_Laksminarayanan
+Gregoire_Montavon
+Luigi_Malagò
+Jose-Miguel_Hernandez-Lobato
+Jon_Shlens
+Çağlar_Gülçehre
+Ozan_İrsoy
+Guido_Montufar Cuartas
+Jorg_Bornschein

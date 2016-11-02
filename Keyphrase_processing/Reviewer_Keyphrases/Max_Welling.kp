@@ -1,0 +1,30 @@
+<Structured Domains> <Bayesian Posterior Inference> <Transformations> <Stochastic Gradient Fisher> 
+
+<Expectation Maximization> 
+
+<Regenerations> <Topic Models> <Approximate Inference> <Inverse Autoregressive Flow> 
+
+<Independent Component Analysis> <Topic Models> <Mixed Membership Stochastic> <Gaussian Process model> 
+
+<Sparse Overcomplete Representations> <Products> 
+
+<Matrix Gaussian Posteriors> 
+
+<Bayesian Posterior Inference> <Markov Random Fields> <Spike> <Hierarchical Clustering> <Contrastive Free Energies> 
+
+<Partially Observed Random> <Stochastic Gradient Langevin> 
+
+<Infinite Mixture Models> <Latent Dirichlet Allocation> 
+
+<MCMC Land Cutting> <Large-Scale Learning> <Stochastic Gradient MCMC> 
+
+<Deep Generative Models> 
+
+<Boltzmann Machines> <Graphical Models> <Mean Field Boltzmann> <Topic Models> <Approximate Inference> 
+
+<Kernel Herding> <Tensor Factorization> 
+
+<Object Recognition> <information retrieval> <Manifolds> 
+
+<image segmentation> <nonlinear dynamics> <Generalized Belief Propagation> <Tree Robust Structured> <Search> <Contrastive Backpropagation> <Binary Networks Stable> 
+
